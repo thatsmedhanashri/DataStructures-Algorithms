@@ -15,3 +15,7 @@ Implement remove/delete
 ## Problem
 
 Reverse the linked list - singly linked list [try as well for doubly linked list]
+
+## Check
+
+https://www.interviewbit.com/blog/reverse-a-linked-list/
