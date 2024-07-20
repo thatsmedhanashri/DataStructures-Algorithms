@@ -15,3 +15,7 @@ While in a non-linear data structure, memory is utilized in an efficient way.
 While its examples are: trees and graphs.
 Applications of non-linear data structures are in Artificial Intelligence and image processing.
 Non-linear data structures are useful for representing complex relationships and data hierarchies, such as in social networks, file systems, or computer networks.
+
+## DS Mind Map
+
+https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link
